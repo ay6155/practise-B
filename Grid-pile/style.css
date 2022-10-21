@@ -1,0 +1,136 @@
+*{
+    text-align: center;
+}
+body{
+    margin:0;
+    padding:0;
+}
+.bg-ash{
+    background-color: #ccc;
+    position: relative;
+}
+.logo{
+    color:#000;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 900;
+    line-height: 2em;
+    letter-spacing:0.2em;
+    font-family:sans-serif;
+}
+.bg-ash .effect{
+    font-size: 1em;
+    font-weight:600;
+    font-family: sans-serif;
+     margin-bottom:em;
+} 
+.bg-ash .fox-image{
+ 
+  margin-top:4em;
+  padding-top:1em;
+}
+.bg-br{
+    background-color:#faf2d1;
+    -webkit-margin-top-collapse: discard;
+}
+.bg-br h2{
+    padding-top:2em;
+    font-weight:700;
+    font-size:1.5em;
+}
+.bg-contect{
+    padding:1.5em 1.5em 1.5em 1.5em;
+}
+.bg-contect .con-2{
+    font-size:1em;
+    padding-bottom:2em;
+}
+.bg-dark{
+    margin-top:-1em;
+    background:#3d606eec;
+    position: relative;
+}
+.container{
+    display:grid;
+    /* flex-direction:column; */
+}
+.ash-contect{
+  background:#dedfe0d3;
+    padding:1em;
+    margin:1em;
+}
+.over{
+position: absolute;
+left:0;
+
+}
+.ash-contect h2{
+    padding-top:3em;
+    padding-bottom:1em;
+    display: block;
+}
+.ash-contect p{
+    padding:1em;
+    display:block;
+    
+}
+.bg-as{
+    background-color:#dedfe0d3 ;
+    -webkit-margin-top-collapse: discard;
+}
+.bg-as .ash-cont{
+    margin:0;
+}
+.ash-cont h2{
+    font-weight:900;
+    padding-top:2em;
+    font-size:1.5em;
+}
+.ash-cont p{
+    padding-top:1.5em;
+    padding-right:2em;
+    padding-left:2em;
+    padding-bottom:5em;
+}
+.sidebar{
+    background:#0f78e2d3;
+    -webkit-margin-collapse:discard;
+}
+.sidebar-item h2{
+    padding-top:2em;
+    padding-bottom:1em;
+    color:#fff;
+    text-transform: capitalize;
+
+}
+.sidebar-item p{
+    color:#fff;
+    text-align:justify;
+    padding:0 1.5em 3em 1.5em;
+}
+.sidebar-two{
+    background-color: #cc5405d3;
+    -webkit-margin-collapse: discard;
+}
+.bar-item{
+    color:#fff;
+}
+.bar-item h2{
+    padding-top:2em;
+    
+}
+.bar-item p{
+    text-align: justify;
+    padding:2em ;
+}
+footer{
+    background-color: #3d606eec;
+    -webkit-margin-bottom-collapse: discard;
+}
+footer a{
+    color:#fff;
+}
+footer p{
+    color:#fff;
+    padding:3em;
+}
